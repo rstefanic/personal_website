@@ -1,5 +1,5 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+.direnv/flake-profile
+.direnv/flake-profile-1-link
+dist/
+public/
+.DS_Store 

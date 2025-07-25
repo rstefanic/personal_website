@@ -1,0 +1,3 @@
+[submodule "personal_website/themes/typo"]
+	path = personal_website/themes/typo
+	url = https://github.com/tomfran/typo

@@ -1,0 +1,35 @@
+baseURL = 'https://robertstefanic.com/'
+languageCode = 'en-us'
+title = 'Robert Stefanic'
+theme = 'typo'
+
+[params]
+theme = 'auto'
+hideHeader = false
+
+homeIntroTitle = 'Welcome'
+homeIntroContent = """
+My name's Robert Stefanic. I live in the Tampa Bay area. I'm a developer at [HelloData.ai](http://hellodata.ai).
+
+Sometimes when I feel like I have something interesting to say or I feel like I need to remember something, then I'll write about it here. I also enjoy talking about these topics in front of an audience if the opportunity presents itself.
+"""
+paginationSize = 10
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+[markup]
+[markup.highlight]
+style = 'bw'
+
+# Social icons
+[[params.social]]
+name = "github"
+url = "https://github.com/rstefanic"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/robert-stefanic/"
+
+[[params.social]]
+name = "x"
+url = "https://x.com/robertstefanic"
