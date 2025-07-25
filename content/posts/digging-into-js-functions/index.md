@@ -20,4 +20,4 @@ There's a phenomenal book on the topic called <a href="https://nostarch.com/oojs
 
 The talk is available to watch below and the slides used in the talk are available <a href="https://github.com/rstefanic/digging-into-js-functions">here.</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2ccw3FKXzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "H2ccw3FKXzc" >}}

@@ -12,4 +12,4 @@ I recently gave a clean code talk at the Northwest Chicago JavaScript meetup. Wh
 
 We've all heard the common good programming practice tropes, but I wanted to take some time and reflect on why these practices are parroted. I cover naming, functions, comments, and (briefly) overall design and system architecture. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/02PMP6e-ocg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "02PMP6e-ocg" >}}
