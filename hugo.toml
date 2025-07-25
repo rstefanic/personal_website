@@ -33,3 +33,7 @@ url = "https://www.linkedin.com/in/robert-stefanic/"
 [[params.social]]
 name = "x"
 url = "https://x.com/robertstefanic"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
